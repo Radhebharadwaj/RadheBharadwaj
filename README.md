@@ -33,19 +33,15 @@
   </a>
 </p>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Radhebharadwaj">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Radhebharadwaj&theme=transparent&hide_border=true&title_color=00F0FF&text_color=ffffff&icon_color=00F0FF&bg_color=0d1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" alt="GitHub Streak" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Radhebharadwaj">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radhebharadwaj&layout=compact&theme=transparent&hide_border=true&title_color=00F0FF&text_color=ffffff&bg_color=0d1117&langs_count=5&custom_title=Core%20Tech%20Arsenal&cache_seconds=3600" alt="Top Languages" />
-      </a>
-    </td>
-  </tr>
+<table <p align="center">
+  <a href="https://github.com/RadheBharadwaj">
+    <img src="https://streak-stats.demolab.com/?user=RadheBharadwaj&hide_border=true&title_color=00F0FF&text_color=ffffff&icon_color=00F0FF&background=0d1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" height="170" alt="GitHub Streak" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/RadheBharadwaj">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadheBharadwaj&layout=compact&hide_border=true&title_color=00F0FF&text_color=ffffff&bg_color=0d1117&langs_count=5" height="170" alt="Top Languages" />
+  </a>
+</p>
 </table>
 
 <br>
