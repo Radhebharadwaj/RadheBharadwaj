@@ -35,18 +35,24 @@
 
 <br>
 
-### 📊 System Telemetry (Real-Time Stats)
+### 📊 System Telemetry (Live Dashboards)
+
+<p align="center">
+  <a href="https://github.com/Radhebharadwaj">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Radhebharadwaj&bg_color=0d1117&color=00F0FF&line=00F0FF&point=FFFFFF&area_color=0d1117&area=true&hide_border=true&custom_title=Live%20Contribution%20Telemetry" alt="Animated Activity Graph" width="100%" />
+  </a>
+</p>
 
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/Radhebharadwaj">
-        <img src="https://github-readme-stats.vercel.app/api?username=Radhebharadwaj&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F0FF&icon_color=00F0FF&bg_color=0d1117&cache_seconds=1800" alt="GitHub Stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Radhebharadwaj&theme=tokyonight&hide_border=true&title_color=00F0FF&icon_color=00F0FF&bg_color=0d1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" alt="GitHub Streak" />
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/Radhebharadwaj">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Radhebharadwaj&theme=tokyonight&hide_border=true&title_color=00F0FF&icon_color=00F0FF&bg_color=0d1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&cache_seconds=1800" alt="GitHub Streak" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radhebharadwaj&layout=compact&theme=tokyonight&hide_border=true&title_color=00F0FF&text_color=a3a3a3&bg_color=0d1117&langs_count=5" alt="Top Languages" />
       </a>
     </td>
   </tr>
