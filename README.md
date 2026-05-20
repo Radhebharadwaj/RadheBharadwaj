@@ -37,14 +37,20 @@
 
 ### 📊 System Telemetry (Real-Time Stats)
 
-<p align="center">
-  <a href="https://github.com/RadheBharadwaj">
-    <img src="https://github-readme-stats.vercel.app/api?username=RadheBharadwaj&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F0FF&icon_color=00F0FF&bg_color=0d1117" alt="GitHub Stats" height="190" />
-  </a>
-  <a href="https://github.com/RadheBharadwaj">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RadheBharadwaj&theme=tokyonight&hide_border=true&title_color=00F0FF&icon_color=00F0FF&bg_color=0d1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" alt="GitHub Streak" height="190" />
-  </a>
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Radhebharadwaj">
+        <img src="https://github-readme-stats.vercel.app/api?username=Radhebharadwaj&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F0FF&icon_color=00F0FF&bg_color=0d1117&cache_seconds=1800" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Radhebharadwaj">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Radhebharadwaj&theme=tokyonight&hide_border=true&title_color=00F0FF&icon_color=00F0FF&bg_color=0d1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&cache_seconds=1800" alt="GitHub Streak" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -52,18 +58,11 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RadheBharadwaj/RadheBharadwaj/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RadheBharadwaj/RadheBharadwaj/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/RadheBharadwaj/RadheBharadwaj/output/github-contribution-grid-snake-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Radhebharadwaj/Radhebharadwaj/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Radhebharadwaj/Radhebharadwaj/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Radhebharadwaj/Radhebharadwaj/output/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
 </p>
-
-<br>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F0FF&height=1&section=header&width=100%&opacity=0.3" />
-</p>
-
 <p align="center">
   <b style="color: #a3a3a3;">🌍 Ready to build the future. Establish a secure connection:</b><br><br>
   <a href="mailto:pixraglobal@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=00F0FF&border=00F0FF" alt="Email" /></a>
