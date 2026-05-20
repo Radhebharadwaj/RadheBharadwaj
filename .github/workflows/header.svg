@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 250" width="100%" height="250">
+  <style>
+    /* Classic Serif Font for Premium Look */
+    .title {
+      font-family: "Georgia", "Times New Roman", serif;
+      font-size: 46px;
+      fill: #ffffff;
+      text-anchor: middle;
+      dominant-baseline: middle;
+    }
+    .subtitle {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      font-size: 13px;
+      fill: #8b949e;
+      text-anchor: middle;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+    }
+    .anim-text {
+      opacity: 0;
+      animation: dropBlur 12s infinite;
+    }
+    /* Delays for each text line to appear one after another */
+    .anim-text:nth-child(1) { animation-delay: 0s; }
+    .anim-text:nth-child(2) { animation-delay: 4s; }
+    .anim-text:nth-child(3) { animation-delay: 8s; }
+
+    /* The Top-to-Bottom Blur Animation */
+    @keyframes dropBlur {
+      0% { opacity: 0; transform: translateY(-30px) scale(0.9); filter: blur(8px); }
+      10%, 25% { opacity: 1; transform: translateY(0px) scale(1); filter: blur(0px); }
+      33%, 100% { opacity: 0; transform: translateY(30px) scale(1.05); filter: blur(8px); }
+    }
+  </style>
+
+  <rect width="100%" height="100%" fill="#0d1117" />
+  
+  <g transform="translate(400, 110)">
+    <text class="title anim-text">Hello, I'm Radhe Bharadwaj.</text>
+    <text class="title anim-text">Visionary Tech Architect.</text>
+    <text class="title anim-text">Building Intelligent Humanoids.</text>
+  </g>
+  
+  <text x="400" y="210" class="subtitle">Architecture • Engineering • Intelligence • Resilience</text>
+</svg>
