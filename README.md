@@ -17,25 +17,21 @@
 
 <br>
 
-### ⚙️ Technology Arsenal
+### ⚙️ Core Technology Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,svelte,react,flutter,ts,linux,docker,aws,git&theme=dark" alt="Tech Stack Icons" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,python,ts,react,svelte,flutter,linux,docker,aws,git&theme=dark&perline=5" alt="Tech Stack Icons" />
+  </a>
 </p>
 
 <br>
 
-### 📊 System Telemetry (Solid Dark)
+### 📊 System Telemetry (Live Graph)
 
 <p align="center">
   <a href="https://github.com/Radhebharadwaj?tab=repositories">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Radhebharadwaj&bg_color=0d1117&color=00F0FF&line=00F0FF&point=ffffff&area_color=0d1117&area=true&hide_border=true&custom_title=Live%20Telemetry&days=30" alt="Activity Graph" width="100%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Radhebharadwaj">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radhebharadwaj&layout=compact&hide_border=true&title_color=00F0FF&text_color=ffffff&bg_color=0d1117&langs_count=5&custom_title=Core%20Tech%20Arsenal&cache_seconds=86400&v=99" alt="Top Languages" />
   </a>
 </p>
 
@@ -45,9 +41,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Radhebharadwaj/Radhebharadwaj/output/github-contribution-grid-snake-dark.svg?v=5">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Radhebharadwaj/Radhebharadwaj/output/github-contribution-grid-snake.svg?v=5">
-    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Radhebharadwaj/Radhebharadwaj/output/github-contribution-grid-snake-dark.svg?v=5" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Radhebharadwaj/Radhebharadwaj/output/github-contribution-grid-snake-dark.svg?v=6">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Radhebharadwaj/Radhebharadwaj/output/github-contribution-grid-snake.svg?v=6">
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Radhebharadwaj/Radhebharadwaj/output/github-contribution-grid-snake-dark.svg?v=6" width="100%">
   </picture>
 </p>
 
