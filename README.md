@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="header.svg" alt="Animated Header" width="100%" />
+  <a href="https://github.com/Radhebharadwaj">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radhebharadwaj&layout=compact&hide_border=true&title_color=00F0FF&text_color=ffffff&bg_color=0d1117&langs_count=5&custom_title=Core%20Tech%20Arsenal&v=99" alt="Top Languages" />
+  </a>
 </p>
 
 ---
