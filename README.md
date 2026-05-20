@@ -38,8 +38,8 @@
 ### 📊 System Telemetry (Live Dashboards)
 
 <p align="center">
-  <a href="https://github.com/Radhebharadwaj">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Radhebharadwaj&bg_color=0d1117&color=00F0FF&line=00F0FF&point=FFFFFF&area_color=0d1117&area=true&hide_border=true&custom_title=Live%20Contribution%20Telemetry" alt="Animated Activity Graph" width="100%" />
+  <a href="https://github.com/Radhebharadwaj?tab=repositories" target="_blank">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Radhebharadwaj&bg_color=0d1117&color=00F0FF&line=00F0FF&point=FFFFFF&area_color=0d1117&area=true&hide_border=true&custom_title=Live%20Telemetry%20(Last%2030%20Days)&days=30" alt="Animated Activity Graph" width="100%" />
   </a>
 </p>
 
@@ -52,7 +52,7 @@
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/Radhebharadwaj">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radhebharadwaj&layout=compact&theme=tokyonight&hide_border=true&title_color=00F0FF&text_color=a3a3a3&bg_color=0d1117&langs_count=5" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radhebharadwaj&layout=donut&theme=tokyonight&hide_border=true&title_color=00F0FF&text_color=a3a3a3&bg_color=0d1117&langs_count=4" alt="Top Languages" />
       </a>
     </td>
   </tr>
