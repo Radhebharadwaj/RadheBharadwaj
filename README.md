@@ -33,16 +33,11 @@
   </a>
 </p>
 
-<table <p align="center">
+<p align="center">
   <a href="https://github.com/RadheBharadwaj">
-    <img src="https://streak-stats.demolab.com/?user=RadheBharadwaj&hide_border=true&title_color=00F0FF&text_color=ffffff&icon_color=00F0FF&background=0d1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" height="170" alt="GitHub Streak" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/RadheBharadwaj">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadheBharadwaj&layout=compact&hide_border=true&title_color=00F0FF&text_color=ffffff&bg_color=0d1117&langs_count=5" height="170" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadheBharadwaj&layout=compact&hide_border=true&title_color=00F0FF&text_color=ffffff&bg_color=0d1117&langs_count=5&custom_title=Core%20Tech%20Arsenal&cache_seconds=86400" alt="Top Languages" />
   </a>
 </p>
-</table>
 
 <br>
 
@@ -50,11 +45,13 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Radhebharadwaj/Radhebharadwaj/output/github-contribution-grid-snake-dark.svg?v=2">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Radhebharadwaj/Radhebharadwaj/output/github-contribution-grid-snake.svg?v=2">
-    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Radhebharadwaj/Radhebharadwaj/output/github-contribution-grid-snake-dark.svg?v=2" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Radhebharadwaj/Radhebharadwaj/output/github-contribution-grid-snake-dark.svg?v=3">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Radhebharadwaj/Radhebharadwaj/output/github-contribution-grid-snake.svg?v=3">
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Radhebharadwaj/Radhebharadwaj/output/github-contribution-grid-snake-dark.svg?v=3" width="100%">
   </picture>
 </p>
+
+<br>
 
 <p align="center">
   <b style="color: #a3a3a3;">🌍 Ready to build the future. Establish a secure connection:</b><br><br>
