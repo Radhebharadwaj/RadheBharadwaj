@@ -37,12 +37,12 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/Radhebharadwaj">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Radhebharadwaj&theme=transparent&hide_border=true&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&bg_color=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Radhebharadwaj&theme=transparent&hide_border=true&title_color=00F0FF&text_color=ffffff&icon_color=00F0FF&bg_color=0d1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" alt="GitHub Streak" />
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/Radhebharadwaj">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radhebharadwaj&layout=donut&theme=transparent&hide_border=true&title_color=ffffff&text_color=a3a3a3&bg_color=0d1117&langs_count=4" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radhebharadwaj&layout=compact&theme=transparent&hide_border=true&title_color=00F0FF&text_color=ffffff&bg_color=0d1117&langs_count=5&custom_title=Core%20Tech%20Arsenal&cache_seconds=3600" alt="Top Languages" />
       </a>
     </td>
   </tr>
