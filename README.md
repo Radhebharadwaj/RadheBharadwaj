@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Radhebharadwaj">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radhebharadwaj&layout=compact&hide_border=true&title_color=00F0FF&text_color=ffffff&bg_color=0d1117&langs_count=5&custom_title=Core%20Tech%20Arsenal&v=99" alt="Top Languages" />
-  </a>
+  <img src="header.svg" alt="Animated Header" width="100%" />
 </p>
 
 ---
@@ -31,13 +29,13 @@
 
 <p align="center">
   <a href="https://github.com/Radhebharadwaj?tab=repositories">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Radhebharadwaj&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area_color=0d1117&area=true&hide_border=true&custom_title=Live%20Telemetry&days=30" alt="Activity Graph" width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Radhebharadwaj&bg_color=0d1117&color=00F0FF&line=00F0FF&point=ffffff&area_color=0d1117&area=true&hide_border=true&custom_title=Live%20Telemetry&days=30" alt="Activity Graph" width="100%" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/RadheBharadwaj">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadheBharadwaj&layout=compact&hide_border=true&title_color=00F0FF&text_color=ffffff&bg_color=0d1117&langs_count=5&custom_title=Core%20Tech%20Arsenal&cache_seconds=86400" alt="Top Languages" />
+  <a href="https://github.com/Radhebharadwaj">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radhebharadwaj&layout=compact&hide_border=true&title_color=00F0FF&text_color=ffffff&bg_color=0d1117&langs_count=5&custom_title=Core%20Tech%20Arsenal&cache_seconds=86400&v=99" alt="Top Languages" />
   </a>
 </p>
 
@@ -47,9 +45,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Radhebharadwaj/Radhebharadwaj/output/github-contribution-grid-snake-dark.svg?v=3">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Radhebharadwaj/Radhebharadwaj/output/github-contribution-grid-snake.svg?v=3">
-    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Radhebharadwaj/Radhebharadwaj/output/github-contribution-grid-snake-dark.svg?v=3" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Radhebharadwaj/Radhebharadwaj/output/github-contribution-grid-snake-dark.svg?v=5">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Radhebharadwaj/Radhebharadwaj/output/github-contribution-grid-snake.svg?v=5">
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Radhebharadwaj/Radhebharadwaj/output/github-contribution-grid-snake-dark.svg?v=5" width="100%">
   </picture>
 </p>
 
