@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Futuristic Animations
 
 on:
   schedule:
@@ -11,7 +11,19 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation generator
+      # Step 1: Generate the 3D contribution graph (Premium replacement for Snake)
+      - uses: yoshi3868/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          # Set the color palette to match your black/cyan theme
+          # Available themes: light, dark, night, nightgreen, nightrainbow, gitblock
+          SETTING_JSON: >
+            {
+              "theme": "nightrainbow" 
+            }
+
+      # Step 2: Generate the Snake Animation (Keep as fallback or secondary)
       - uses: Platane/snk@v2
         id: snake-gif
         with:
@@ -22,10 +34,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-      # Deploy the files to the output branch
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      # Step 3: Deploy all generated files to the output branch
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: .
+          # You can set build_dir: . because profile-3d generates files in root
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
