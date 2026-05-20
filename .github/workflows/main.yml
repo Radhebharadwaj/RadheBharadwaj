@@ -19,7 +19,7 @@ jobs:
           github_user_name: RadheBharadwaj
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00F0FF
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#000000&color_dots=#161b22,#30363d,#6e7681,#a3a3a3,#ffffff
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
