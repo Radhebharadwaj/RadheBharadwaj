@@ -17,14 +17,14 @@
 
 ---
 
-### 👨‍💻 Engineering Roadmap & Deep Vision
+### 👨‍💻 Engineering Roadmap & Vision
 
-* 🎓 **The Journey:** A 20-year-old tech enthusiast with a massive vision for the future of AI and robotics.
+* 🎓 **The Journey:** A 20-year-old tech architect with a massive vision for the future of AI and robotics.
 * 🚀 **Current Mandate:** Building scalable B2B & B2C products and complete digital ecosystems at **Pixra**.
 * 🧠 **Core Engineering:** Deep-diving into **C++** to architect high-performance, resilient systems.
 * 🔍 **Infrastructure:** Developing a high-performance, next-generation **Search Engine and Indexing System**.
 * 🤖 **Ultimate Goal:** Transitioning into deep-tech research to build climate-resilient, intelligent **Humanoids** that can assist humanity through extreme challenges.
-* 🌍 **Beyond Code:** A solo traveler and wanderer. I approach problems with playful, child-like curiosity—because untethered minds build the best technology.
+* 🌍 **Beyond Code:** A solo traveler and wanderer. I approach engineering with playful, child-like curiosity—because untethered minds build the best tech.
 
 ---
 
