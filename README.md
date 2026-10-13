@@ -10,7 +10,7 @@
 
 > **CURRENT STATUS:** Architecting the future with untethered curiosity.
 
-* 🎓 **The Origin:** A 20-year-old tech architect with a massive vision for the future of AI and robotics.
+* 🎓 **The Origin:** A 21-year-old tech architect with a massive vision for the future of AI and robotics.
 * 🚀 **Current Mandate:** Building scalable B2B & B2C products and complete digital ecosystems at **Pixra**.
 * 🧠 **Core Engineering:** Deep-diving into **C++** to architect high-performance, resilient systems and next-generation Search Engines.
 * 🤖 **The Endgame:** Transitioning into deep-tech research to build climate-resilient, highly intelligent **Humanoids** that can assist humanity.
