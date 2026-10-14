@@ -11,7 +11,8 @@
 > **CURRENT STATUS:** Architecting the future with untethered curiosity.
 
 * 🎓 **The Origin:** A 21-year-old tech architect with a massive vision for the future of AI and robotics.
-* 🚀 **Current Mandate:** Building scalable B2B & B2C products and complete digital ecosystems at **Pixra**.
+* 🚀 **Current Mandate:** Building scalable B2B & B2C products and complete digital ecosystems at **[Pixra Global](https://github.com/pixra)**. 
+* ⚡ **Core Project:** Currently developing **[QuduHub](https://qudu.in)** — a next-generation education management platform built with Next.js, Cloudflare, and Supabase.
 * 🧠 **Core Engineering:** Deep-diving into **C++** to architect high-performance, resilient systems and next-generation Search Engines.
 * 🤖 **The Endgame:** Transitioning into deep-tech research to build climate-resilient, highly intelligent **Humanoids** that can assist humanity.
 
@@ -51,6 +52,7 @@
 
 <p align="center">
   <b style="color: #a3a3a3;">🌍 Ready to build the future. Establish a secure connection:</b><br><br>
+  <a href="https://qudu.in"><img src="https://img.shields.io/badge/QUDUHUB-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff&border=ffffff" alt="QuduHub Website" /></a>
   <a href="mailto:pixraglobal@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=ffffff&border=ffffff" alt="Email" /></a>
   <a href="https://x.com/pixraglobal"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=ffffff" alt="X" /></a>
   <a href="https://www.reddit.com/user/pixraglobal"><img src="https://img.shields.io/badge/REDDIT-0d1117?style=for-the-badge&logo=reddit&logoColor=ffffff" alt="Reddit" /></a>
