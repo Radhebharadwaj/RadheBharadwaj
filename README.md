@@ -12,8 +12,8 @@
 
 </div>
 
-<!-- Clean & Premium Subtle Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=1&width=100%" width="100%" alt="" />
+<!-- RED Premium Animated Separator Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Red Animated Line" />
 
 <h3 align="center">⟡ &nbsp;Neural Pathways &amp; Vision&nbsp; ⟡</h3>
 
@@ -25,8 +25,8 @@
 - **🧠 Core Engineering** — Deep-diving into **C++** to architect high-performance, resilient systems and next-generation search engines.
 - **🤖 The Endgame** — Transitioning into deep-tech research to build climate-resilient, highly intelligent **humanoids** that assist humanity.
 
-<!-- Clean & Premium Subtle Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=1&width=100%" width="100%" alt="" />
+<!-- RED Premium Animated Separator Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Red Animated Line" />
 
 <h3 align="center">⟡ &nbsp;Core Technology Arsenal&nbsp; ⟡</h3>
 
@@ -50,14 +50,15 @@
 
 </div>
 
-<!-- Clean & Premium Subtle Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=1&width=100%" width="100%" alt="" />
+<!-- RED Premium Animated Separator Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Red Animated Line" />
 
 <h3 align="center">⟡ &nbsp;System Telemetry&nbsp; ⟡</h3>
 
 <div align="center">
 
-<!-- Premium & Interactive Stats (No duplicate names, fully reliable) -->
+**`CORE METRICS`**
+
 <a href="https://github.com/Radhebharadwaj" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api?username=Radhebharadwaj&show_icons=true&hide_title=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&border_radius=10" alt="GitHub Stats" width="49%" />
 </a>
@@ -67,21 +68,34 @@
 
 <br/>
 
-<!-- Animated Fire Streak -->
+**`STREAK & CONSISTENCY`**
+
 <a href="https://github.com/Radhebharadwaj" target="_blank">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Radhebharadwaj&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&currStreakNum=ffffff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&border_radius=10" alt="GitHub Streak" width="100%" />
 </a>
 
 <br/>
 
-<!-- Dynamic Commits Graph (Clickable to view deep details) -->
+**`DYNAMIC ACTIVITY GRAPH`**
+
+<!-- Premium Rogue Theme Activity Graph -->
+<a href="https://github.com/Radhebharadwaj" target="_blank">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Radhebharadwaj&theme=rogue&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true" width="100%" alt="Contribution Activity Graph" />
+</a>
+
+<br/>
+
+**`PRODUCTIVE TIME (UTC +5.50)`**
+
+<!-- Clickable Productive Time Graph -->
 <a href="https://github.com/Radhebharadwaj?tab=overview&from=2025-06-01&to=2026-10-15" target="_blank">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Radhebharadwaj&theme=tokyonight&utcOffset=5.5" width="100%" alt="Productive Time Graph" />
 </a>
 
-<br/><br/>
+<br/>
 
-<!-- Premium Core Focus Badges (100% Reliable, no broken images) -->
+**`CORE FOCUS`**
+
 <p>
   <img src="https://img.shields.io/badge/FOCUS-GENERAL--PURPOSE_AI-58a6ff?style=for-the-badge&logo=openai&logoColor=white" alt="AI Workspace" />
   &nbsp;
@@ -92,7 +106,7 @@
 
 </div>
 
-<!-- RED Premium Animated Separator Line (Clean & Professional) -->
+<!-- RED Premium Animated Separator Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Red Animated Line" />
 
 <h3 align="center">⟡ &nbsp;Architectural Contributions&nbsp; ⟡</h3>
@@ -105,8 +119,8 @@
   </picture>
 </div>
 
-<!-- Clean & Premium Subtle Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=1&width=100%" width="100%" alt="" />
+<!-- RED Premium Animated Separator Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Red Animated Line" />
 
 <h3 align="center">⟡ &nbsp;Establish a Secure Connection&nbsp; ⟡</h3>
 
