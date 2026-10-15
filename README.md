@@ -62,10 +62,10 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Radhebharadwaj/Radhebharadwaj/output/github-contribution-grid-snake-dark.svg?v=6">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Radhebharadwaj/Radhebharadwaj/output/github-contribution-grid-snake.svg?v=6">
-    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Radhebharadwaj/Radhebharadwaj/output/github-contribution-grid-snake-dark.svg?v=6" width="100%">
-  </picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Radhebharadwaj/Radhebharadwaj/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Radhebharadwaj/Radhebharadwaj/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph Animation" src="https://raw.githubusercontent.com/Radhebharadwaj/Radhebharadwaj/output/pacman-contribution-graph.svg" width="100%">
+</picture>
 </p>
 
 <br>
