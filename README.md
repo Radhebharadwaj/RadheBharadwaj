@@ -2,10 +2,6 @@
   <img src="header.svg" alt="Radhebharadwaj Animated Header" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=20&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=Visionary+Tech+Architect+%7C+Founder+at+Pixra+Global;Architecting+QuduHub+%E2%80%94+A+General-Purpose+AI+Workspace;Deep-diving+into+C%2B%2B+for+High-Performance+Systems;Building+Climate-Resilient%2C+Intelligent+Humanoids;Designing+Scalable+B2B+%26+B2C+Digital+Ecosystems!" alt="Typing animation" />
-</p>
-
 ---
 
 <br>
