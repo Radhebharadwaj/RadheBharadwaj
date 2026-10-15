@@ -57,14 +57,7 @@
 
 <div align="center">
 
-<!-- Premium Profile Overview Dashboard -->
-<a href="https://github.com/Radhebharadwaj" target="_blank">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Radhebharadwaj&theme=tokyonight" width="100%" alt="Profile Details Graph" />
-</a>
-
-<br/>
-
-<!-- Interactive Stats & Unique Donut Language Chart (Hidden titles to remove double name) -->
+<!-- Premium & Interactive Stats (No duplicate names, fully reliable) -->
 <a href="https://github.com/Radhebharadwaj" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api?username=Radhebharadwaj&show_icons=true&hide_title=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&border_radius=10" alt="GitHub Stats" width="49%" />
 </a>
@@ -81,17 +74,21 @@
 
 <br/>
 
-<!-- Dynamic Commits Graph (Click to view detailed interactions) -->
+<!-- Dynamic Commits Graph (Clickable to view deep details) -->
 <a href="https://github.com/Radhebharadwaj?tab=overview&from=2025-06-01&to=2026-10-15" target="_blank">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Radhebharadwaj&theme=tokyonight&utcOffset=5.5" width="100%" alt="Productive Time Graph" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- Premium & Interactive GitHub Trophies (Hover to see the glow animation) -->
-<a href="https://github.com/Radhebharadwaj" target="_blank">
-  <img src="https://github-profile-trophy.vercel.app/?username=Radhebharadwaj&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" width="100%" alt="GitHub Trophies" />
-</a>
+<!-- Premium Core Focus Badges (100% Reliable, no broken images) -->
+<p>
+  <img src="https://img.shields.io/badge/FOCUS-GENERAL--PURPOSE_AI-58a6ff?style=for-the-badge&logo=openai&logoColor=white" alt="AI Workspace" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/FOCUS-INTELLIGENT_HUMANOIDS-FF4500?style=for-the-badge&logo=robot&logoColor=white" alt="Humanoids" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/FOCUS-HIGH--PERFORMANCE_SYSTEMS-1f6feb?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Systems" />
+</p>
 
 </div>
 
