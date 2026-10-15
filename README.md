@@ -12,7 +12,7 @@
 
 </div>
 
-<!-- Clean & Premium Subtle Divider (No harsh blue line) -->
+<!-- Clean & Premium Subtle Divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=1&width=100%" width="100%" alt="" />
 
 <h3 align="center">⟡ &nbsp;Neural Pathways &amp; Vision&nbsp; ⟡</h3>
@@ -57,30 +57,40 @@
 
 <div align="center">
 
+<!-- Premium Profile Overview Dashboard -->
 <a href="https://github.com/Radhebharadwaj" target="_blank">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Radhebharadwaj&theme=tokyonight" width="100%" alt="Profile Details Graph" />
 </a>
 
 <br/>
 
+<!-- Interactive Stats & Unique Donut Language Chart (Hidden titles to remove double name) -->
 <a href="https://github.com/Radhebharadwaj" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api?username=Radhebharadwaj&show_icons=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&border_radius=10" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Radhebharadwaj&show_icons=true&hide_title=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&border_radius=10" alt="GitHub Stats" width="49%" />
 </a>
-<a href="https://github.com/Radhebharadwaj" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radhebharadwaj&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&border_radius=10" alt="Top Languages" width="49%" />
+<a href="https://github.com/Radhebharadwaj?tab=repositories" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radhebharadwaj&layout=donut&hide_title=true&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&border_radius=10" alt="Top Languages" width="49%" />
 </a>
 
 <br/>
 
+<!-- Animated Fire Streak -->
 <a href="https://github.com/Radhebharadwaj" target="_blank">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Radhebharadwaj&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&currStreakNum=ffffff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&border_radius=10" alt="GitHub Streak" width="100%" />
 </a>
 
 <br/>
 
-<!-- Dynamic & Clickable Commits Graph -->
+<!-- Dynamic Commits Graph (Click to view detailed interactions) -->
 <a href="https://github.com/Radhebharadwaj?tab=overview&from=2025-06-01&to=2026-10-15" target="_blank">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Radhebharadwaj&theme=tokyonight&utcOffset=5.5" width="100%" alt="Productive Time Graph" />
+</a>
+
+<br/>
+
+<!-- Premium & Interactive GitHub Trophies (Hover to see the glow animation) -->
+<a href="https://github.com/Radhebharadwaj" target="_blank">
+  <img src="https://github-profile-trophy.vercel.app/?username=Radhebharadwaj&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" width="100%" alt="GitHub Trophies" />
 </a>
 
 </div>
