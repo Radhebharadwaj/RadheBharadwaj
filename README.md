@@ -1,59 +1,59 @@
-<div align="center">
-
-<!-- You can replace this banner with your actual image later, currently using a sleek tech banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Radhe%20Bharadwaj&fontSize=50&fontAlign=50&fontAlignY=40&desc=Visionary%20Tech%20Architect%20%7C%20Building%20Intelligent%20Humanoids&descAlign=50&descAlignY=60&descSize=15&animation=twinkling" width="100%" />
-
-<br/>
-
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hello, I'm **Radhe Bharadwaj**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=20&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=Visionary+Tech+Architect+%7C+Founder+at+Pixra+Global;Architecting+QuduHub+%E2%80%94+A+General-Purpose+AI+Workspace;Deep-diving+into+C%2B%2B+for+High-Performance+Systems;Building+Climate-Resilient%2C+Intelligent+Humanoids;Designing+Scalable+B2B+%26+B2C+Digital+Ecosystems!" alt="Typing animation" />
-
-<br/>
-
-<p>
-  <a href="https://github.com/Radhebharadwaj?tab=followers">
-    <img src="https://img.shields.io/github/followers/Radhebharadwaj?logo=github&style=for-the-badge&color=0d1117" alt="GitHub followers" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Radhebharadwaj?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Radhebharadwaj?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=00F0FF" alt="Total stars" />
-  </a>
-  &nbsp;
-  <a href="https://komarev.com/ghpvc/?username=Radhebharadwaj&label=Profile%20views&color=0d1117&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=Radhebharadwaj&label=Profile%20views&color=0d1117&style=for-the-badge" alt="Profile views" />
-  </a>
+<p align="center">
+  <img src="header.svg" alt="Pixra Global Animated Header" width="100%" />
 </p>
-
-<p>
-  <a href="mailto:pixraglobal@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ffffff&border=ffffff" />
-  </a>
-  &nbsp;
-  <a href="https://qudu.in" target="_blank">
-    <img src="https://img.shields.io/badge/QuduHub-0d1117?style=for-the-badge&logo=vercel&logoColor=00F0FF&border=00F0FF" />
-  </a>
-  &nbsp;
-  <a href="https://x.com/pixraglobal" target="_blank">
-    <img src="https://img.shields.io/badge/X-(Twitter)-0d1117?style=for-the-badge&logo=x&logoColor=ffffff&border=ffffff" />
-  </a>
-  &nbsp;
-  <a href="https://www.reddit.com/user/pixraglobal" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-0d1117?style=for-the-badge&logo=reddit&logoColor=FF4500&border=FF4500" />
-  </a>
-</p>
-
-</div>
 
 ---
 
-## 🚀 The Core Identity
+<br>
 
-<img align="right" alt="AI Brain" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/4382009/animated-brain.gif" />
+### 👨‍💻 Neural Pathways & Vision
 
-```yaml
-name       : Radhe Bharadwaj
-age        : 21
-status     : Architecting the future with untethered curiosity.
-mandate    : Founder & Lead Architect @ Pixra Global
-focus      : AI Systems · High-Performance Engineering · Humanoids
+> **CURRENT STATUS:** Architecting the future with untethered curiosity.
+
+* 🎓 **The Origin:** A 21-year-old tech architect with a massive vision for the future of AI and robotics.
+* 🚀 **Current Mandate:** Building scalable B2B & B2C products and complete digital ecosystems at **[Pixra Global](https://github.com/pixra)**. 
+* ⚡ **Core Project:** Currently developing **[QuduHub](https://qudu.in)** — a next-generation education management platform built with Next.js, Cloudflare, and Supabase.
+* 🧠 **Core Engineering:** Deep-diving into **C++** to architect high-performance, resilient systems and next-generation Search Engines.
+* 🤖 **The Endgame:** Transitioning into deep-tech research to build climate-resilient, highly intelligent **Humanoids** that can assist humanity.
+
+<br>
+
+### ⚙️ Core Technology Arsenal
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,python,ts,react,svelte,flutter,linux,docker,aws,git&theme=dark&perline=5" alt="Tech Stack Icons" />
+  </a>
+</p>
+
+<br>
+
+### 📊 System Telemetry (Live Graph)
+
+<p align="center">
+  <a href="https://github.com/Radhebharadwaj?tab=repositories">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Radhebharadwaj&bg_color=0d1117&color=00F0FF&line=00F0FF&point=ffffff&area_color=0d1117&area=true&hide_border=true&custom_title=Live%20Telemetry&days=30" alt="Activity Graph" width="100%" />
+  </a>
+</p>
+
+<br>
+
+### 🌌 Architectural Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Radhebharadwaj/Radhebharadwaj/output/github-contribution-grid-snake-dark.svg?v=6">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Radhebharadwaj/Radhebharadwaj/output/github-contribution-grid-snake.svg?v=6">
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Radhebharadwaj/Radhebharadwaj/output/github-contribution-grid-snake-dark.svg?v=6" width="100%">
+  </picture>
+</p>
+
+<br>
+
+<p align="center">
+  <b style="color: #a3a3a3;">🌍 Ready to build the future. Establish a secure connection:</b><br><br>
+  <a href="https://qudu.in"><img src="https://img.shields.io/badge/QUDUHUB-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff&border=ffffff" alt="QuduHub Website" /></a>
+  <a href="mailto:pixraglobal@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=ffffff&border=ffffff" alt="Email" /></a>
+  <a href="https://x.com/pixraglobal"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=ffffff" alt="X" /></a>
+  <a href="https://www.reddit.com/user/pixraglobal"><img src="https://img.shields.io/badge/REDDIT-0d1117?style=for-the-badge&logo=reddit&logoColor=ffffff" alt="Reddit" /></a>
+</p>
