@@ -47,7 +47,7 @@
 </p>
 
 <a href="https://github.com/Radhebharadwaj">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Radhebharadwaj&theme=tokyo-night&bg_color=0d1117&color=00F0FF&line=00F0FF&point=ffffff&area_color=0d1117&area=true&hide_border=true&custom_title=System%20Telemetry" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Radhebharadwaj&theme=tokyo-night&bg_color=0d1117&color=00F0FF&line=00F0FF&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </a>
 
 </div>
