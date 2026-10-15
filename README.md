@@ -2,19 +2,13 @@
 
 <img src="header.svg" alt="Radhebharadwaj Animated Header" width="100%" />
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=22&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=Visionary+Tech+Architect+%7C+Founder+at+Pixra+Global;Architecting+QuduHub+%E2%80%94+A+General-Purpose+AI+Workspace;Deep-diving+into+C%2B%2B+for+High-Performance+Systems;Building+Climate-Resilient%2C+Intelligent+Humanoids;Designing+Scalable+B2B+%26+B2C+Digital+Ecosystems!" alt="Typing animation" />
-
-<br/><br/>
-
 <p>
   <a href="mailto:pixraglobal@gmail.com">
     <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ffffff&border=ffffff" alt="Email" />
   </a>
   &nbsp;
   <a href="https://qudu.in" target="_blank">
-    <img src="https://img.shields.io/badge/QuduHub-0d1117?style=for-the-badge&logo=vercel&logoColor=00F0FF&border=00F0FF" alt="QuduHub" />
+    <img src="https://img.shields.io/badge/QuduHub-0d1117?style=for-the-badge&logo=vercel&logoColor=58a6ff&border=58a6ff" alt="QuduHub" />
   </a>
   &nbsp;
   <a href="https://x.com/pixraglobal" target="_blank">
@@ -63,23 +57,16 @@
 
 <p align="center">
   <a href="https://github.com/Radhebharadwaj" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=Radhebharadwaj&show_icons=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&border_radius=10&v=1" alt="GitHub Stats" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Radhebharadwaj&show_icons=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&border_radius=10" alt="GitHub Stats" width="49%" />
   </a>
   <a href="https://github.com/Radhebharadwaj" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radhebharadwaj&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&border_radius=10&v=1" alt="Top Languages" width="49%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Radhebharadwaj" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Radhebharadwaj&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&currStreakNum=ffffff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&border_radius=10&v=1" alt="GitHub Streak" width="100%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radhebharadwaj&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&border_radius=10" alt="Top Languages" width="49%" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Radhebharadwaj" target="_blank">
-    <!-- The &v=999 forces GitHub to clear the broken cache and fetch the fresh line graph -->
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Radhebharadwaj&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&v=999" alt="Activity Graph" width="100%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Radhebharadwaj&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&currStreakNum=ffffff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&border_radius=10" alt="GitHub Streak" width="100%" />
   </a>
 </p>
 
