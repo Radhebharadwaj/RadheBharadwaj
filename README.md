@@ -75,13 +75,40 @@
 
 <br/>
 
+<!-- Fixed Activity Graph (Removed radius parameter which often causes breaks) -->
 <a href="https://github.com/Radhebharadwaj" target="_blank">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Radhebharadwaj&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&radius=10" width="100%" alt="Contribution Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Radhebharadwaj&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true" width="100%" alt="Contribution Activity Graph" />
 </a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1f6feb&height=1&width=100%" width="100%" alt="" />
+<!-- ==================== RED ALERT SECTION ==================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=2&width=100%" width="100%" alt="" />
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Red Animated Line" />
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=RED+ALERT+%3A+CORE+SYSTEMS+OPERATIONAL" alt="Red Alert System" />
+
+<br/>
+
+<a href="https://github.com/Radhebharadwaj" target="_blank">
+  <img src="https://img.shields.io/badge/STATUS-RED__ALERT-FF0000?style=for-the-badge&logo=github&logoColor=white" alt="Red Alert" />
+</a>
+&nbsp;
+<a href="https://github.com/Radhebharadwaj" target="_blank">
+  <img src="https://img.shields.io/badge/PROTOCOL-OVERRIDE-FF0000?style=for-the-badge&logo=codeforces&logoColor=white" alt="Protocol Override" />
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=2&width=100%" width="100%" alt="" />
+
+<!-- ============================================================ -->
 
 <h3 align="center">⟡ &nbsp;Architectural Contributions&nbsp; ⟡</h3>
 
