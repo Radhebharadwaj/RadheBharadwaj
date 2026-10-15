@@ -63,23 +63,23 @@
 
 <p align="center">
   <a href="https://github.com/Radhebharadwaj" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=Radhebharadwaj&show_icons=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&border_radius=10" alt="GitHub Stats" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Radhebharadwaj&show_icons=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&border_radius=10&v=1" alt="GitHub Stats" width="49%" />
   </a>
   <a href="https://github.com/Radhebharadwaj" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radhebharadwaj&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&border_radius=10" alt="Top Languages" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radhebharadwaj&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&border_radius=10&v=1" alt="Top Languages" width="49%" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Radhebharadwaj" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Radhebharadwaj&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&currStreakNum=ffffff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&border_radius=10" alt="GitHub Streak" width="100%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Radhebharadwaj&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&currStreakNum=ffffff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&border_radius=10&v=1" alt="GitHub Streak" width="100%" />
   </a>
 </p>
 
-<!-- The New, 100% Stable Isometric Activity Grid (Replaces the broken wave graph) -->
 <p align="center">
   <a href="https://github.com/Radhebharadwaj" target="_blank">
-    <img src="https://metrics.lecoq.io/Radhebharadwaj?template=classic&base=activity&config_timezone=Asia%2FCalcutta&config_twemoji=yes&theme=dark" alt="Isometric Activity Grid" width="100%" />
+    <!-- The &v=999 forces GitHub to clear the broken cache and fetch the fresh line graph -->
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Radhebharadwaj&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&v=999" alt="Activity Graph" width="100%" />
   </a>
 </p>
 
