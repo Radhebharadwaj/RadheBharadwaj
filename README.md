@@ -12,8 +12,8 @@
 
 </div>
 
-<!-- Premium Animated Separator Line -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Line" />
+<!-- Clean & Premium Subtle Divider (No harsh blue line) -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=1&width=100%" width="100%" alt="" />
 
 <h3 align="center">⟡ &nbsp;Neural Pathways &amp; Vision&nbsp; ⟡</h3>
 
@@ -25,8 +25,8 @@
 - **🧠 Core Engineering** — Deep-diving into **C++** to architect high-performance, resilient systems and next-generation search engines.
 - **🤖 The Endgame** — Transitioning into deep-tech research to build climate-resilient, highly intelligent **humanoids** that assist humanity.
 
-<!-- Premium Animated Separator Line -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Line" />
+<!-- Clean & Premium Subtle Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=1&width=100%" width="100%" alt="" />
 
 <h3 align="center">⟡ &nbsp;Core Technology Arsenal&nbsp; ⟡</h3>
 
@@ -50,8 +50,8 @@
 
 </div>
 
-<!-- Premium Animated Separator Line -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Line" />
+<!-- Clean & Premium Subtle Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=1&width=100%" width="100%" alt="" />
 
 <h3 align="center">⟡ &nbsp;System Telemetry&nbsp; ⟡</h3>
 
@@ -78,14 +78,14 @@
 
 <br/>
 
-<!-- FIXED: Replaced broken activity graph with a highly stable Productive Time card -->
-<a href="https://github.com/Radhebharadwaj" target="_blank">
+<!-- Dynamic & Clickable Commits Graph -->
+<a href="https://github.com/Radhebharadwaj?tab=overview&from=2025-06-01&to=2026-10-15" target="_blank">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Radhebharadwaj&theme=tokyonight&utcOffset=5.5" width="100%" alt="Productive Time Graph" />
 </a>
 
 </div>
 
-<!-- RED Premium Animated Separator Line -->
+<!-- RED Premium Animated Separator Line (Clean & Professional) -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Red Animated Line" />
 
 <h3 align="center">⟡ &nbsp;Architectural Contributions&nbsp; ⟡</h3>
@@ -98,8 +98,8 @@
   </picture>
 </div>
 
-<!-- Premium Animated Separator Line -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Line" />
+<!-- Clean & Premium Subtle Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=1&width=100%" width="100%" alt="" />
 
 <h3 align="center">⟡ &nbsp;Establish a Secure Connection&nbsp; ⟡</h3>
 
