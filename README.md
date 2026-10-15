@@ -39,14 +39,16 @@
 
 <div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Radhebharadwaj&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff&bg_color=0d1117" alt="Radhebharadwaj's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radhebharadwaj&layout=compact&theme=tokyonight&hide_border=true&title_color=00F0FF&text_color=ffffff&bg_color=0d1117" alt="Top Languages" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Radhebharadwaj&theme=tokyonight" width="100%" alt="Profile Details" />
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Radhebharadwaj&theme=tokyonight" alt="Stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Radhebharadwaj&theme=tokyonight" alt="Most Commit Language" width="49%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Radhebharadwaj&theme=tokyonight&hide_border=true&background=0d1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" alt="GitHub Streak" width="100%" />
-</p>
+<a href="https://github.com/Radhebharadwaj">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Radhebharadwaj&bg_color=0d1117&color=00F0FF&line=00F0FF&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+</a>
 
 </div>
 
