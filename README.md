@@ -61,16 +61,21 @@
 
 <div align="center">
 
-<!-- Premium Purple Wave Graph (Maintains Enterprise Look) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Radhebharadwaj&theme=tokyonight" width="100%" alt="Profile Details" />
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Radhebharadwaj&theme=tokyonight" alt="Stats" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Radhebharadwaj&theme=tokyonight" alt="Most Commit Language" width="49%" />
+<p align="center">
+  <a href="https://github.com/Radhebharadwaj" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=Radhebharadwaj&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff&bg_color=0d1117&border_radius=10" alt="GitHub Stats" width="49%" />
+  </a>
+  <a href="https://github.com/Radhebharadwaj" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radhebharadwaj&layout=compact&theme=tokyonight&hide_border=true&title_color=00F0FF&text_color=ffffff&bg_color=0d1117&border_radius=10" alt="Top Languages" width="49%" />
+  </a>
 </p>
 
-<!-- The New Bulletproof, Animated Isometric Contribution Graph -->
-<img src="https://metrics.lecoq.io/Radhebharadwaj?template=classic&base=activity&config_timezone=Asia%2FCalcutta&config_twemoji=yes&theme=tokyonight" alt="Metrics" width="100%" />
+<p align="center">
+  <a href="https://github.com/Radhebharadwaj" target="_blank">
+    <!-- Ye Streak API ek subtle pulsing fire animation ke sath aati hai -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Radhebharadwaj&theme=tokyonight&hide_border=true&background=0d1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&border_radius=10" alt="GitHub Streak" width="100%" />
+  </a>
+</p>
 
 </div>
 
