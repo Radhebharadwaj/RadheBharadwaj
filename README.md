@@ -76,9 +76,10 @@
   </a>
 </p>
 
+<!-- The New, 100% Stable Isometric Activity Grid (Replaces the broken wave graph) -->
 <p align="center">
   <a href="https://github.com/Radhebharadwaj" target="_blank">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Radhebharadwaj&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+    <img src="https://metrics.lecoq.io/Radhebharadwaj?template=classic&base=activity&config_timezone=Asia%2FCalcutta&config_twemoji=yes&theme=dark" alt="Isometric Activity Grid" width="100%" />
   </a>
 </p>
 
