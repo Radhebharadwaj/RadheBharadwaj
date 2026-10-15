@@ -46,8 +46,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Radhebharadwaj&theme=tokyonight" alt="Most Commit Language" width="49%" />
 </p>
 
-<a href="https://github.com/Radhebharadwaj?tab=repositories">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Radhebharadwaj&bg_color=0d1117&color=00F0FF&line=00F0FF&point=ffffff&area_color=0d1117&area=true&hide_border=true&custom_title=System%20Telemetry&days=30" alt="Activity Graph" width="100%" />
+<a href="https://github.com/Radhebharadwaj">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Radhebharadwaj&theme=tokyo-night&bg_color=0d1117&color=00F0FF&line=00F0FF&point=ffffff&area_color=0d1117&area=true&hide_border=true&custom_title=System%20Telemetry" alt="Activity Graph" width="100%" />
 </a>
 
 </div>
