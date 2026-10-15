@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 44" width="900" height="44" role="img" aria-label="System Telemetry">
+  <defs>
+    <linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#e5383b" stop-opacity="0"/><stop offset="1" stop-color="#e5383b" stop-opacity=".85"/></linearGradient>
+    <linearGradient id="r" x1="1" x2="0"><stop offset="0" stop-color="#e5383b" stop-opacity="0"/><stop offset="1" stop-color="#e5383b" stop-opacity=".85"/></linearGradient>
+    <linearGradient id="sp" x1="0" x2="1"><stop offset="0" stop-color="#ff6b6e" stop-opacity="0"/><stop offset=".6" stop-color="#ff6b6e"/><stop offset="1" stop-color="#fff" stop-opacity=".9"/></linearGradient>
+    <clipPath id="c"><rect x="0" y="0" width="333.2" height="44"/><rect x="566.8" y="0" width="333.2" height="44"/></clipPath>
+  </defs>
+  <rect x="0" y="21.5" width="333.2" height="1" fill="url(#l)"/>
+  <rect x="566.8" y="21.5" width="333.2" height="1" fill="url(#r)"/>
+  <g clip-path="url(#c)">
+    <rect x="-90" y="20.5" width="90" height="3" rx="1.5" fill="url(#sp)"><animate attributeName="x" from="-90" to="900" dur="4.5s" repeatCount="indefinite"/></rect>
+  </g>
+  <text x="373.2" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" font-weight="700" fill="#e5383b" textLength="153.6" lengthAdjust="spacing">System Telemetry</text>
+  <rect x="349.2" y="18" width="8" height="8" fill="#e5383b" transform="rotate(45 353.2 22)"><animate attributeName="opacity" values="1;.25;1" dur="2.4s" repeatCount="indefinite"/></rect>
+  <rect x="542.8" y="18" width="8" height="8" fill="#e5383b" transform="rotate(45 546.8 22)"><animate attributeName="opacity" values=".25;1;.25" dur="2.4s" repeatCount="indefinite"/></rect>
+</svg>
